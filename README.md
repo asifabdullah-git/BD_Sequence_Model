@@ -2,4 +2,7 @@
 
 Under Construction!!!!!!!!!!!!
 
-Sequence to find/predict some words that should recuire some criteria.
+Sequence to find/predict some words that should require some criteria.
+
+
+Using CNN and combine 2 picture together.
